@@ -24,7 +24,7 @@ Docker (for deployment)
 Installation
 Clone the repository:
 ```
-git clone https://github.com/AyaanShaheer/EduBlog-API.git
+git clone https://github.com/AyaanShaheer/EduBlog-API-.git
 cd edu-blog-api
 ```
 Install dependencies:
